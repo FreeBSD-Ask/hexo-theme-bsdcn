@@ -1,0 +1,65 @@
+# BSDCN Theme Configuration
+
+# Site
+site:
+  title: FreeBSD
+  subtitle: The Power to Serve
+  description: FreeBSD is an operating system used to power modern servers, desktops, and embedded platforms.
+  logo: /images/freebsd-logo.png
+
+# Navigation
+nav:
+  items:
+    - text: Home
+      link: /
+    - text: About
+      link: /about/
+    - text: Download
+      link: /download/
+    - text: Documentation
+      link: /documentation/
+    - text: Community
+      link: /community/
+
+# Language
+language:
+  default: en
+  available:
+    - en
+    - ru
+    - zh-tw
+
+# Footer
+footer:
+  links:
+    - text: Mailing Lists
+      link: /mailing-lists/
+    - text: Reporting Problems
+      link: /reporting-problems/
+    - text: FAQ
+      link: /faq/
+    - text: Handbook
+      link: /handbook/
+    - text: Ports
+      link: /ports/
+
+# Social
+social:
+  - icon: github
+    link: https://github.com/freebsd/freebsd
+
+# Theme
+theme:
+  primary_color: #003366
+  secondary_color: #0066cc
+  text_color: #333333
+  background_color: #ffffff
+  border_color: #dddddd
+
+# Responsive
+responsive:
+  enabled: true
+  breakpoints:
+    mobile: 768px
+    tablet: 992px
+    desktop: 1200px

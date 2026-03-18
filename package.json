@@ -1,0 +1,25 @@
+{
+  "name": "hexo-theme-bsdcn",
+  "version": "1.0.0",
+  "description": "A Hexo theme inspired by the FreeBSD official website design.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreeBSD-Ask/hexo-theme-bsdcn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/FreeBSD-Ask/hexo-theme-bsdcn/issues"
+  },
+  "homepage": "https://github.com/FreeBSD-Ask/hexo-theme-bsdcn#readme",
+  "devDependencies": {
+    "hexo": "^8.1.1",
+    "hexo-cli": "^4.3.2"
+  }
+}
