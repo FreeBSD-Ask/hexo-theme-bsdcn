@@ -2,6 +2,7 @@
 
 一个受 FreeBSD 官方网站设计启发的 Hexo 主题。
 
+<<<<<<< HEAD
 ## 特性
 
 - **视觉设计**：复刻 FreeBSD 官网简洁、专业的外观
@@ -105,9 +106,16 @@ hexo-theme-bsdcn/
 4. 将图片添加到 `source/images/`
 
 ## 许可证
+=======
+## License
+>>>>>>> bacb0daf0e29ac9eb5e1dfa0955f8703667d7104
 
 MIT 许可证
 
 ## 致谢
 
+<<<<<<< HEAD
 受 [FreeBSD 官方网站](https://www.freebsd.org/) 启发
+=======
+Inspired by the [FreeBSD official website](https://www.freebsd.org/)
+>>>>>>> bacb0daf0e29ac9eb5e1dfa0955f8703667d7104
